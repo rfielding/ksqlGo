@@ -17,6 +17,6 @@ Once you have docker installed:
 ./runit
 ```
 
-It's this:
+It's this tutorial:
 
-(tutorial)[https://ksqldb.io/quickstart.html#quickstart-content]
+https://ksqldb.io/quickstart.html#quickstart-content
